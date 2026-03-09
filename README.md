@@ -1,5 +1,15 @@
 # 🎮 Tic Tac Toe — Material You Edition
 
+<div align="center">
+
+[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-Live%20Demo-6750A4?style=for-the-badge&logoColor=white)](https://parmpatel.github.io/Tic-Tac-Toe/)
+
+**[🎮 Click here to play instantly → parmpatel.github.io/Tic-Tac-Toe](https://parmpatel.github.io/Tic-Tac-Toe/)**
+
+</div>
+
+---
+
 A beautifully crafted, fully-featured Tic Tac Toe game built with pure **HTML, CSS & JavaScript** — no frameworks, no dependencies. Inspired by Google's **Material You (Material Design 3)** design language with smooth animations, persistent scores, and an unbeatable AI.
 
 ---
@@ -178,9 +188,11 @@ A `gameGen` counter is incremented on every `newGame()` call. Each scheduled AI 
 
 ## 📸 Screenshots
 
+> *(Add your own screenshots here)*
+
 | Light Mode | Dark Mode |
 |-----------|-----------|
-| <details><summary>Light Mode</summary><br><img src="https://github.com/user-attachments/assets/042aacee-f9e9-466e-8324-12178b0ac817" width="250"></details> | <details><summary>Dark Mode</summary><br><img src="https://github.com/user-attachments/assets/9a78c4d1-869c-4ab0-83c6-53b1c4605cdd" width="250"></details> |
+| ![light](screenshots/light.png) | ![dark](screenshots/dark.png) |
 
 ---
 
