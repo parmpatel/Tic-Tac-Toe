@@ -4,8 +4,6 @@
 
 [![Play Now](https://img.shields.io/badge/▶%20Play%20Now-Live%20Demo-6750A4?style=for-the-badge&logoColor=white)](https://parmpatel.github.io/Tic-Tac-Toe/)
 
-**[🎮 Click here to play instantly → parmpatel.github.io/Tic-Tac-Toe](https://parmpatel.github.io/Tic-Tac-Toe/)**
-
 </div>
 
 ---
