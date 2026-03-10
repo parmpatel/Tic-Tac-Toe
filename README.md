@@ -25,4 +25,6 @@
 
 | Light Mode | Dark Mode |
 |-----------|-----------|
-| <details><summary>Light Mode</summary><br><img src="https://github.com/user-attachments/assets/042aacee-f9e9-466e-8324-12178b0ac817" width="250"></details> | <details><summary>Dark Mode</summary><br><img src="https://github.com/user-attachments/assets/9a78c4d1-869c-4ab0-83c6-53b1c4605cdd" width="250"></details> |
+| <details>
+<img src="https://github.com/user-attachments/assets/042aacee-f9e9-466e-8324-12178b0ac817" width="250"></details> | <details>
+<br><img src="https://github.com/user-attachments/assets/9a78c4d1-869c-4ab0-83c6-53b1c4605cdd" width="250"></details> |
